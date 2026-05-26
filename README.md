@@ -13,6 +13,10 @@ Community contributions are welcome, and trusted collaborators may review and
 merge pull requests, but no guarantees are made regarding support, pull request
 review, security response, maintenance, or release timelines.
 
+## Documentation
+
+Documentation available at https://emod.idmod.org/
+
 ## Disclaimer
 
 The code in this repository was developed by IDM and other collaborators to support our
